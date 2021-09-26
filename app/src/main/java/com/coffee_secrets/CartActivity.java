@@ -10,8 +10,7 @@ import android.widget.Button;
 public class CartActivity extends AppCompatActivity {
 
     private Button mCOder;
-
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,11 +24,7 @@ public class CartActivity extends AppCompatActivity {
 
                 Intent i = new Intent(CartActivity.this,PayActivity.class);
                 startActivity(i);
-
             }
         });
-
-
-
     }
 }
