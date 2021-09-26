@@ -12,10 +12,6 @@ public class details_Activity extends AppCompatActivity {
     private Button mAddtomy;
 
 
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
