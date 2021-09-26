@@ -12,8 +12,6 @@ public class CartActivity extends AppCompatActivity {
     private Button mCOder;
 
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
